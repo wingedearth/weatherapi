@@ -1,0 +1,16 @@
+{
+  "name": "weather_api_lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weatherApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew A. Anissi, Esq.",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "mongoose": "^4.2.5",
+    "request": "^2.65.0"
+  }
+}
