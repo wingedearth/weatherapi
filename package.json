@@ -9,6 +9,7 @@
   "author": "Andrew A. Anissi, Esq.",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "dotenv": "^1.2.0",
     "mongoose": "^4.2.5",
     "request": "^2.65.0"
